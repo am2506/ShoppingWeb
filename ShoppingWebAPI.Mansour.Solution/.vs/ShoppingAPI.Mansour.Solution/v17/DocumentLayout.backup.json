@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{380B6479-163B-48D3-808D-B94CC86AA88C}|Shopping.Core\\Shopping.Core.csproj|e:\\backend course\\route\\2024\\09 asp.net core web apis\\demo\\shoppingwebapi.mansour.solution\\shopping.core\\shopping.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{380B6479-163B-48D3-808D-B94CC86AA88C}|Shopping.Core\\Shopping.Core.csproj|solutionrelative:shopping.core\\shopping.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3853ED7-51E2-4C75-A458-82D03523FF0B}|Shopping.Repository\\Shopping.Repository.csproj|e:\\backend course\\route\\2024\\09 asp.net core web apis\\demo\\shoppingwebapi.mansour.solution\\shopping.repository\\shopping.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3853ED7-51E2-4C75-A458-82D03523FF0B}|Shopping.Repository\\Shopping.Repository.csproj|solutionrelative:shopping.repository\\shopping.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{733027E1-234E-4C1D-90FA-D5313C923FF2}|Shopping.Service\\Shopping.Service.csproj|e:\\backend course\\route\\2024\\09 asp.net core web apis\\demo\\shoppingwebapi.mansour.solution\\shopping.service\\shopping.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{733027E1-234E-4C1D-90FA-D5313C923FF2}|Shopping.Service\\Shopping.Service.csproj|solutionrelative:shopping.service\\shopping.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CFB41B-FEC5-415A-B76D-C3D017BE3387}|ShoppingWebAPI\\ShoppingWebAPI.csproj|e:\\backend course\\route\\2024\\09 asp.net core web apis\\demo\\shoppingwebapi.mansour.solution\\shoppingwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1CFB41B-FEC5-415A-B76D-C3D017BE3387}|ShoppingWebAPI\\ShoppingWebAPI.csproj|solutionrelative:shoppingwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shopping.Core",
+              "DocumentMoniker": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Core\\Shopping.Core.csproj",
+              "RelativeDocumentMoniker": "Shopping.Core\\Shopping.Core.csproj",
+              "ToolTip": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Core\\Shopping.Core.csproj",
+              "RelativeToolTip": "Shopping.Core\\Shopping.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T07:26:03.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shopping.Repository",
+              "DocumentMoniker": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Repository\\Shopping.Repository.csproj",
+              "RelativeDocumentMoniker": "Shopping.Repository\\Shopping.Repository.csproj",
+              "ToolTip": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Repository\\Shopping.Repository.csproj",
+              "RelativeToolTip": "Shopping.Repository\\Shopping.Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T07:25:58.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shopping.Service",
+              "DocumentMoniker": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Service\\Shopping.Service.csproj",
+              "RelativeDocumentMoniker": "Shopping.Service\\Shopping.Service.csproj",
+              "ToolTip": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Service\\Shopping.Service.csproj",
+              "RelativeToolTip": "Shopping.Service\\Shopping.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T07:25:54.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\ShoppingWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShoppingWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\ShoppingWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShoppingWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T07:25:09.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

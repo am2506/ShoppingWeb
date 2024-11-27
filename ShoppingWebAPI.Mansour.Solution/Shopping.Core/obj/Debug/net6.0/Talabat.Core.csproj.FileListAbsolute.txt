@@ -1,0 +1,12 @@
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll

@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Service\\Shopping.Service.csproj": {}
+  },
+  "projects": {
+    "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Core\\Shopping.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Core\\Shopping.Core.csproj",
+        "projectName": "Shopping.Core",
+        "projectPath": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Core\\Shopping.Core.csproj",
+        "packagesPath": "C:\\Users\\A7MED\\.nuget\\packages\\",
+        "outputPath": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A7MED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Repository\\Shopping.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Repository\\Shopping.Repository.csproj",
+        "projectName": "Shopping.Repository",
+        "projectPath": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Repository\\Shopping.Repository.csproj",
+        "packagesPath": "C:\\Users\\A7MED\\.nuget\\packages\\",
+        "outputPath": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A7MED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Core\\Shopping.Core.csproj": {
+                "projectPath": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Core\\Shopping.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Service\\Shopping.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Service\\Shopping.Service.csproj",
+        "projectName": "Shopping.Service",
+        "projectPath": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Service\\Shopping.Service.csproj",
+        "packagesPath": "C:\\Users\\A7MED\\.nuget\\packages\\",
+        "outputPath": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A7MED\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Repository\\Shopping.Repository.csproj": {
+                "projectPath": "E:\\Backend Course\\Route\\2024\\09 ASP.NET Core Web APIs\\Demo\\ShoppingWebAPI.Mansour.Solution\\Shopping.Repository\\Shopping.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.35, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[47.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

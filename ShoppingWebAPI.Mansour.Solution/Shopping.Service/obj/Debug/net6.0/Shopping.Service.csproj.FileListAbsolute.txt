@@ -1,0 +1,17 @@
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\bin\Debug\net6.0\Shopping.Service.deps.json
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\bin\Debug\net6.0\Shopping.Service.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\bin\Debug\net6.0\Shopping.Service.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\bin\Debug\net6.0\Shopping.Core.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\bin\Debug\net6.0\Shopping.Repository.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\bin\Debug\net6.0\Shopping.Repository.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\bin\Debug\net6.0\Shopping.Core.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\Shopping.Service.csproj.AssemblyReference.cache
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\Shopping.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\Shopping.Service.AssemblyInfoInputs.cache
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\Shopping.Service.AssemblyInfo.cs
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\Shopping.Service.csproj.CoreCompileInputs.cache
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\Shopping.E791505E.Up2Date
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\Shopping.Service.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\refint\Shopping.Service.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\Shopping.Service.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\ShoppingWebAPI.Mansour.Solution\Shopping.Service\obj\Debug\net6.0\ref\Shopping.Service.dll

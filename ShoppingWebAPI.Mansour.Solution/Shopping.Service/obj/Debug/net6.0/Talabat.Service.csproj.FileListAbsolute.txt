@@ -1,0 +1,17 @@
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Repository.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+E:\Backend Course\Route\2024\09 ASP.NET Core Web APIs\Demo\RouteWebAPI.Mansour.Solution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
